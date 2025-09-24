@@ -1,4 +1,7 @@
-# array() in Pyspark()-array(),array_conatins,array_length,array_remove(),array_position()
+## 
+array() in Pyspark()
+
+array(),array_conatins,array_length,array_remove(),array_position()
 
 
 ## Joins 
